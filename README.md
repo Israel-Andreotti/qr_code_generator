@@ -14,3 +14,9 @@
   <li>NPM</li>
   <li>Variáveis de ambiente</li>
 </ul>
+
+
+<h4>Para utilizar</h4>
+
+1. Rode o comando "npm i" para fazer download das dependências do projeto.
+2. Rode o script "npm run start" para que o app inicie.
